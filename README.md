@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gustavo Ronan</h1>
-<h3 align="center">A passionate FullStack Development Student from Brazil</h3>
 
-- 🌱 I’m currently learning **Angular 17, Java SpringBoot, Bootstrap & TypeScript**
+
+- 🌱 Currently learning **Angular 17, Java SpringBoot, Bootstrap & TypeScript**
 
 - 📫 How to reach me **gustavoronn@gmail.com**
 
