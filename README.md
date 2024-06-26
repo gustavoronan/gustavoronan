@@ -2,6 +2,8 @@
 
 - 📫 How to reach me **gustavoronn@gmail.com**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoronan)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
