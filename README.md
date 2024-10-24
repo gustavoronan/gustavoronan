@@ -1,4 +1,4 @@
-- 🌱 Currently learning **Angular 17, Java SpringBoot, Bootstrap & TypeScript**
+- 🌱 Currently learning **Python, SQLAlchemy & Data Science**
 
 - 📫 How to reach me **gustavoronn@gmail.com**
 
