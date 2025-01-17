@@ -1,4 +1,3 @@
-- 🌱 Currently learning **Python, SQLAlchemy & Data Science**
 
 - 📫 How to reach me **gustavoronn@gmail.com**
 
