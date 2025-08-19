@@ -25,3 +25,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="padding: 10px"/>
   </a>
 </p>
+
+![Snake animation](https://github.com/Natan-Ledur/Natan-Ledur/blob/main/dist/snake.svg)
