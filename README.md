@@ -26,4 +26,4 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/Natan-Ledur/Natan-Ledur/blob/main/dist/snake.svg)
+![Snake animation](https://github.com/gustavoronan/gustavoronan/blob/main/dist/snake.svg)
