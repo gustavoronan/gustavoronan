@@ -26,4 +26,12 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/gustavoronan/gustavoronan/blob/main/dist/snake.svg)
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/gustavoronan/snake-gm/blob/main/dist/snake.svg)
+0
+
+
+  
+</div>
