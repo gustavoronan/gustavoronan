@@ -26,11 +26,10 @@
   </a>
 </p>
 
-
 <div align="center">
-  
-  ![Snake animation](https://github.com/gustavoronan/snake-gm/blob/main/dist/snake.svg)
-0
+  <img src="https://github.com/gustavoronan/snake-gm/blob/main/dist/snake.svg" alt="Snake animation" width="600" />
+</div>
+
 
 
   
