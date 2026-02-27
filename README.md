@@ -4,33 +4,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <div>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="padding: 10px"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="padding: 10"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="padding: 10px"/>
-  </a>
-  <p>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="padding: 10px"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="padding: 10px"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="padding: 10px"/>
-  </a>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavoronan&theme=radical"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavoronan&theme=radical"/>
+  <img src="https://github.com/gustavoronan/snake-gm/blob/main/dist/snake.svg" alt="Snake animation" width="600" />
   </div>
 </p>
 
-<div align="left">
-  <img src="https://github.com/gustavoronan/snake-gm/blob/main/dist/snake.svg" alt="Snake animation" width="600" />
-</div>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavoronan&theme=radical"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavoronan&theme=radical"/>
+
 
 
 
